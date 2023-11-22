@@ -1,0 +1,12 @@
+.button {
+  background: none;
+  border: 1px solid white;
+  padding: 0.4em;
+  margin-right: 10px;
+  color: white;
+}
+
+.counter-display {
+  color: white;
+  font-size: 24px;
+}
